@@ -4,7 +4,7 @@
   "description": "ThisIsMyFirstTest",
   "main": "index.js",
   "scripts": {
-    "test": "cmd"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
