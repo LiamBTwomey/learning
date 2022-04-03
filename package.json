@@ -1,0 +1,21 @@
+{
+  "name": "liamtestfolder",
+  "version": "1.0.0",
+  "description": "ThisIsMyFirstTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "norepo"
+  },
+  "keywords": [
+    "liamfirst"
+  ],
+  "author": "Liam Twomey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
